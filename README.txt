@@ -1,5 +1,5 @@
 === Gallery-Circle ===
-Contributors: Gabriel Valero
+Contributors: <a href="https://www.linkedin.com/in/gabrielvaleroperez/" target="_blank">Gabriel Valero</a>
 Tags: gallery,circle,post,hover,category,custom
 Donate link: https://www.linkedin.com/in/gabrielvaleroperez
 Requires at least: 0.2
