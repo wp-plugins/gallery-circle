@@ -1,5 +1,5 @@
 === Gallery-Circle ===
-Contributors: [WordPress](https://www.linkedin.com/in/gabrielvaleroperez/ “Gabriel Valero”)
+Contributors: Gabriel Valero
 Tags: gallery,circle,post,hover,category,custom
 Donate link: https://www.linkedin.com/in/gabrielvaleroperez
 Requires at least: 0.2
